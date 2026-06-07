@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "Initial release.",
+  "pub_date": "2026-06-07T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.1/Vanda.Formulation.Suite_1.0.1_x64-setup.exe"
+    }
+  }
+}
