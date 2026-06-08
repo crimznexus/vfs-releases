@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
-  "notes": "- Fix: App logo now shows in sidebar (was rendering text only)\n- Fix: Feeding guide table follows dark mode\n- Fix: PDF export now opens after saving (was failing with URL validation error)\n- Fix: Formula PDF export included nutraceuticals in ingredient table (now ingredient-only)",
+  "version": "1.0.8",
+  "notes": "v1.0.8 - UI/UX overhaul, branding update, live dashboard KPIs, dark-mode table fixes, wired backup button, formula pre-selection in ration check.",
+  "pub_date": "2026-06-08T22:49:19.334Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjJiM3FJUzEwNG9kRDBzWUZoSHd4STVUcGhoWk51WmJZSFNlRytWN3JoV2UzNU5tNHNDOGc4TWg5NUdZbGUvVXU5RzhPQ3RsOXdVQXlqUEtyQlVhWkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTQ0Mjc2CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjdfeDY0LXNldHVwLmV4ZQpKR3YvTkQ3emllVm9NR0c2aThhVVZwem5TakVKbEllbzUrbVNxdHoyakwrNG9zTm5vS1VtVjIrM3liZWdwU3h0NjRvRGt1ZEMzVlUwQndRUm4zTnRCUT09Cg==",
-      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.7/Vanda.Formulation.Suite_1.0.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjY4WklEYVo5U0hBNURaNzQ2cUNBZ3FXLzdKaDJqWXozS3ZXYzd3eUc1a25FcW9MdktvOVh5NTN0RVg1M2RZanRwZTViaTFXK0JYeWFmMEk5aUluSmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTU2NjM3CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjhfeDY0LXNldHVwLmV4ZQovTGN5cnd3YUtYdHk0L3VJYTBYNWdqb1hlRld4c2p6ZlpwM0dGZlBhYmZaMnRXaVN6WmhEZDIyNytkRUZRSmxJTTJCb1MrUjA5M0Fyd1UzTWdybGxCQT09Cg==",
+      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.8/Vanda.Formulation.Suite_1.0.8_x64-setup.exe"
     }
-  },
-  "pub_date": "2026-06-09T12:00:00Z"
+  }
 }
