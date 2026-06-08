@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "Auto-updater, dark mode, app icon, and NaviroLabs branding.",
-  "pub_date": "2026-06-07T00:00:00Z",
+  "version": "1.0.3",
+  "notes": "ADF/EE/Ash/TDN calculations, contribution-based formula table, full design system 1:1 alignment.",
+  "pub_date": "2026-06-08T11:34:47Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNnc4VGY3Z0tsREhkbUVlZk9xaGhHeHU1d1lkRkgxTXVrZENYSm8xdnFnRTBTc3dPNFdaZjhVclJoWmcyU29WYVM3TW9RNy9LR2RtNGVyVUxxMDZ0VmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODQxNzQ5CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjJfeDY0LXNldHVwLmV4ZQpLNDZwYzZZVnU1cG5CRldGQlhYS01uVmN3MEV2ZjdmLzg2bjRhcENxNG84MlcrdmNCeUQ2VHM5U0dQODVEVldMcWt1dnNuZGtFUDZUbUVkT0dSR3pCQT09Cg==",
-      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.2/Vanda.Formulation.Suite_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjBiY2l4VHFwSjk1R3lkMkcvUUhiV1JUN0ZxTk16WGV2bENjdmFaYnpIb1Nwc0E5ZGRndVVHTlNvb2w1YXZYcFE5TDZxVnpsdnJTZjRyUWhTZEoyTEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTAwMzA3CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjNfeDY0LXNldHVwLmV4ZQo3bks4VXVHWVhvYmR1bHJLM0ordytuZHhhZ2o1TGZvTVBocjhRQ3NUTXNSdUd0OVpwTDF0c2ZZcWZmT0lIQTZCcVZtVVlWa1lFY2hJSkc2L0w2Qy9CZz09Cg==",
+      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.3/Vanda.Formulation.Suite_1.0.3_x64-setup.exe"
     }
   }
 }
