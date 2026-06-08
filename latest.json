@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "pub_date": "2026-06-08T14:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.6/Vanda.Formulation.Suite_1.0.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNnp6RXloYnd1NGtkUUNqVE5Cd1RQV21RZ1hiZ3lRZnBoQ3NjYkZtdW80MU5xOExaTWp0TXBVaFhuMGZ2dGhVSkZSRU5GQXkzQU1OdEgwS2hFNmVnWlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTEyMjkxCWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjZfeDY0LXNldHVwLmV4ZQpORUh1U3laSE5lMTA5M1hHZjJ3TVNzc3pUdWtINUMrYVczaW56M1dIL2VwLzVucUc3RUMzSThhNmxIblZQdW1zd1lmaFUrRkpyajlxRS8rTXpQejREUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjBFajd3WVZNWnZFWVRSRlV6MXlLeDFtbW9hcmFSUnB4UTlsczV4Nm55cEdReHhUdDY3TmdRSUNaZmp0a2xyNnZlTHBySnlPN2RvR2N5WlQ4OWs4UHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTE5MDU5CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjdfeDY0LXNldHVwLmV4ZQoyVDF0QkNDOHBTOFcrZXhRY2ltejNUZ2JxcVVaQ1ZuT20zOXFvWXY4cm5OWFRYWExkb1ZuWVR3ZVgrUEhVTDZFU204dzU3bWxTaUtjTGxYbWpUZXlBdz09Cg==",
+      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.7/Vanda.Formulation.Suite_1.0.7_x64-setup.exe"
     }
   },
-  "notes": "- New: Nutraceuticals -- manage in Settings, add per ration\n- Fix: Dark mode colors in Ration Check and Products"
+  "pub_date": "2026-06-08T16:58:05Z",
+  "notes": "- Refactor: Nutraceuticals folded into raw materials -- add/edit in Settings under new Nutraceuticals tab\n- New: Nutraceutical dosing shown in g/tonne in formula editor\n- New: Ingredient categories renamed to human-readable names; custom categories allowed\n- Fix: Dark mode in Formulas page (list, editor, raw material table, new formula modal)\n- Fix: App icon enlarged to fill taskbar frame",
+  "version": "1.0.7"
 }
