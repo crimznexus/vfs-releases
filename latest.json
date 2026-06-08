@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "Fix: installer reduced from 209MB to 5MB by switching WebView2 bundling mode. Resolves 504 timeout on auto-update.",
-  "pub_date": "2026-06-08T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjROL3RMUWRhMlZwYk44OExjS0VINmcwNFNvM1RJck12U0wrVnEwWktJaGNoWFZ4RkFHbGRtT0t5ZjN4Z2F6RTNsdlp2RHQyZWJOZ053b3VHeW5ML2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTAyMjE1CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjRfeDY0LXNldHVwLmV4ZQp4OUhjRm4wTGxONFc3TWZlS2t4Vjl3SHBBNWJlWXRMYkJUREdnS2JEbXpPcTFUUmVSVXFWcGpWUDNpTkh0eXdPbUxiQngveENOY0tJUUpSWHlpN1dBdz09Cg==",
-      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.4/Vanda.Formulation.Suite_1.0.4_x64-setup.exe"
+      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.5/Vanda.Formulation.Suite_1.0.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNnlIUE1uaGZPd1pkNUlEVDFzTzhFaVJnQkNEN3dXRExjMUUwb3hkMkxwMnVKQ21LOHlqSkJSdXZ4eUhzbjZvRkliVCtyYjJFRFdkaEs5NzlBRlpjcWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTA4OTkyCWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjVfeDY0LXNldHVwLmV4ZQpJWm5NODBRYmdQUzg2UGhrV0h2cllZYjlnMjhFSjI3VnRnRzVxejNTRVJwWGRONVQ0cHl1NUttMGlPeTdMK1dvengxU0NSWTByZzNVWVl6M3JuWmhDZz09Cg=="
     }
-  }
+  },
+  "version": "1.0.5",
+  "pub_date": "2026-06-08T12:00:00Z",
+  "notes": "- Fix: icon now visible on taskbar\n- Fix: update installer now correctly replaces existing version\n- New: Ingredients Library in Settings (add / edit / delete)\n- New: Nutraceuticals section in formula editor\n- New: All nutrient columns editable per formula item\n- Change: 100 kg formulation basis throughout\n- Fix: Settings page dark mode"
 }
