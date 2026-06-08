@@ -1,11 +1,11 @@
 {
+  "version": "1.0.7",
+  "notes": "- Fix: App logo now shows in sidebar (was rendering text only)\n- Fix: Feeding guide table follows dark mode\n- Fix: PDF export now opens after saving (was failing with URL validation error)\n- Fix: Formula PDF export included nutraceuticals in ingredient table (now ingredient-only)",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjBFajd3WVZNWnZFWVRSRlV6MXlLeDFtbW9hcmFSUnB4UTlsczV4Nm55cEdReHhUdDY3TmdRSUNaZmp0a2xyNnZlTHBySnlPN2RvR2N5WlQ4OWs4UHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTE5MDU5CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjdfeDY0LXNldHVwLmV4ZQoyVDF0QkNDOHBTOFcrZXhRY2ltejNUZ2JxcVVaQ1ZuT20zOXFvWXY4cm5OWFRYWExkb1ZuWVR3ZVgrUEhVTDZFU204dzU3bWxTaUtjTGxYbWpUZXlBdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjJiM3FJUzEwNG9kRDBzWUZoSHd4STVUcGhoWk51WmJZSFNlRytWN3JoV2UzNU5tNHNDOGc4TWg5NUdZbGUvVXU5RzhPQ3RsOXdVQXlqUEtyQlVhWkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTQ0Mjc2CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjdfeDY0LXNldHVwLmV4ZQpKR3YvTkQ3emllVm9NR0c2aThhVVZwem5TakVKbEllbzUrbVNxdHoyakwrNG9zTm5vS1VtVjIrM3liZWdwU3h0NjRvRGt1ZEMzVlUwQndRUm4zTnRCUT09Cg==",
       "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.7/Vanda.Formulation.Suite_1.0.7_x64-setup.exe"
     }
   },
-  "pub_date": "2026-06-08T16:58:05Z",
-  "notes": "- Refactor: Nutraceuticals folded into raw materials -- add/edit in Settings under new Nutraceuticals tab\n- New: Nutraceutical dosing shown in g/tonne in formula editor\n- New: Ingredient categories renamed to human-readable names; custom categories allowed\n- Fix: Dark mode in Formulas page (list, editor, raw material table, new formula modal)\n- Fix: App icon enlarged to fill taskbar frame",
-  "version": "1.0.7"
+  "pub_date": "2026-06-09T12:00:00Z"
 }
