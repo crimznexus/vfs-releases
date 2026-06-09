@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-06-09T06:57:53Z",
+  "version": "1.1.0",
+  "notes": "Updated logos, larger sidebar icon mark, removed milk price input",
+  "pub_date": "2026-06-09T07:31:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNis4TUtzUkFWeE1wdjZFcTZlbTlkUmJIQWx3VUxSVHAwMjkzY29LQ0ZGYUNtNjBYRlI2ZHFuY3ZxZi9rOEhFaDBCZXNydWpZODZtMjE2VStMTWIxN2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTcwMjIwCWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjExX3g2NC1zZXR1cC5leGUKb0ZrYTN2N2YxZVhoTDloaEIwMUd1T0xlcXQ1Wk9nOHVvZ2lDa1g0QW1WN1FhdGxGclh4akh0VDhKcWtEbGtLNGM0Vmp5ZE1McjFiSWFxRTNkMWwzQlE9PQo=",
-      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.11/Vanda.Formulation.Suite_1.0.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjAzeHBMejVXRUhOWWlqY2psU3ByRkhERmYrb1dlaTdxSytYMHdETndUVjFFLytQWXlLM1NpOGZ6dzcrSjVrbUtRL1U5YlRBTDVQRUNEaUxsbnk5WmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTcyMTM3CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4xLjBfeDY0LXNldHVwLmV4ZQpRUEM2Ykx5TDREdzdkRS9xUUxHOEFiZ0JYTi8vdlpIOEF2ZXlERmZ1SFcrRkJ5UjVnT1pBMjBuZGR1dzc2QUxqeTBqVlo3MlN1eHpmb1BPMnR6bmNDZz09Cg==",
+      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.1.0/Vanda.Formulation.Suite_1.1.0_x64-setup.exe"
     }
-  },
-  "version": "1.0.11",
-  "notes": "New app icon, corrected sidebar logo light/dark variants, splash screen polish."
+  }
 }
