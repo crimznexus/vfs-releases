@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-06-09T05:27:21Z",
+  "notes": "Splash logo 40% smaller with 3-second display. Larger, more prominent sidebar logo.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.9/Vanda.Formulation.Suite_1.0.9_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjl1ZFU4MXVtM2diY01sYlkrcGs3MnVuNzUwTmxEZ01wVEVKb0UvbjlrQzNGV01lZ1lLWFA2VEp1R2R3cWVQblY2bXRKeEU3Z3FVenhqQWRBcTJBaUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTY0NzYwCWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjlfeDY0LXNldHVwLmV4ZQpvaCtwTnUwSERXSnNaUGtaTTJpbmh3aTNyUE0yaHJ1bkxoUkl1Q0pOaXBEWmtDemQ2NFg2SUhicE5JSXdJQ3RxNzZVenBIMW1uK1V1Sm9GdDB4dHNBdz09Cg=="
+      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.10/Vanda.Formulation.Suite_1.0.10_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNnl1VlNNckJqK3VqTlFTYnFuazZ0cWRscGxDN3RlZHRKN0Z4alRpSWdmRmtFYk5jQ1NLUXQwN0xVUGhCOTlwaGRYTDhEaHNJVUM0TlZEMXRDVEExVEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTY1NzE5CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjEwX3g2NC1zZXR1cC5leGUKajFST0I4N1VtUFJXTmYyNWVJZmJrVDFwUk5FazJ2cmRoWUsrNmloMVYxcHc5dzg2ZXkvQlI2dHlCaG1ESmVuN3FwamlBaHJTaG1hL3ZaUCtVQ21OQVE9PQo="
     }
   },
-  "version": "1.0.9",
-  "notes": "Splash screen on app launch, larger sidebar logo, NaviroLabs light/dark logo variants."
+  "version": "1.0.10",
+  "pub_date": "2026-06-09T05:42:36Z"
 }
