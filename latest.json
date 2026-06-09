@@ -1,11 +1,11 @@
 {
-  "notes": "Splash logo 40% smaller with 3-second display. Larger, more prominent sidebar logo.",
+  "pub_date": "2026-06-09T06:57:53Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.10/Vanda.Formulation.Suite_1.0.10_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNnl1VlNNckJqK3VqTlFTYnFuazZ0cWRscGxDN3RlZHRKN0Z4alRpSWdmRmtFYk5jQ1NLUXQwN0xVUGhCOTlwaGRYTDhEaHNJVUM0TlZEMXRDVEExVEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTY1NzE5CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjEwX3g2NC1zZXR1cC5leGUKajFST0I4N1VtUFJXTmYyNWVJZmJrVDFwUk5FazJ2cmRoWUsrNmloMVYxcHc5dzg2ZXkvQlI2dHlCaG1ESmVuN3FwamlBaHJTaG1hL3ZaUCtVQ21OQVE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNis4TUtzUkFWeE1wdjZFcTZlbTlkUmJIQWx3VUxSVHAwMjkzY29LQ0ZGYUNtNjBYRlI2ZHFuY3ZxZi9rOEhFaDBCZXNydWpZODZtMjE2VStMTWIxN2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTcwMjIwCWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4wLjExX3g2NC1zZXR1cC5leGUKb0ZrYTN2N2YxZVhoTDloaEIwMUd1T0xlcXQ1Wk9nOHVvZ2lDa1g0QW1WN1FhdGxGclh4akh0VDhKcWtEbGtLNGM0Vmp5ZE1McjFiSWFxRTNkMWwzQlE9PQo=",
+      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.0.11/Vanda.Formulation.Suite_1.0.11_x64-setup.exe"
     }
   },
-  "version": "1.0.10",
-  "pub_date": "2026-06-09T05:42:36Z"
+  "version": "1.0.11",
+  "notes": "New app icon, corrected sidebar logo light/dark variants, splash screen polish."
 }
