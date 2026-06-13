@@ -4,8 +4,8 @@
   "pub_date": "2026-06-13T20:35:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjR2VTFOQndNUkhUQllqMnhaMFBIbG9YbHNpb1lKSWR6UHplck9OSUc1ZE4wb2h2d0IycXNmK2NqUTVHajhQYVBIZFFLOEhlenFESVVvSUFUTVhxelFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzgyNjk2CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4xLjFfeDY0LXNldHVwLmV4ZQpwdHJjV2JxWW5zZml4T0VjY2VUaFpQbmVGQTd2SUsvM1E4SzZIYTJNWHNWdXZ2V1pIb0UyOTNodUZMbGtCZFBaSDJ3K210TGdNL3k0MHpVOGtoaFZDUT09Cg==",
-      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.1.1/Vanda.Formulation.Suite_1.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjBKejhoeUhVcWhPUnpOVzlDRzJjVTIvVEt4Zlh1TC9zUUticTdMRlR0TGZjZlBraTY0dVNOeERyUjQ2cTNFVHUwRlcvcFFsaFVaT3Zpcms4aU1HSVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzgyNjk2CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4xLjFfeDY0X2VuLVVTLm1zaQpqZGxocWN2bVU1WTBDeGhOQjh1SjJLcXE2elExN2Q4UVVpSVQ2WnpYVURJTm9tYXF6UkpxNW5kSWNVMG43VFdmRGVpYzFIRnI2TmlnOXNIRnl4cGZCUT09Cg==",
+      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.1.1/Vanda.Formulation.Suite_1.1.1_x64_en-US.msi"
     }
   }
 }
