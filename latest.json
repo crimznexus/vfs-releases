@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Updated logos, larger sidebar icon mark, removed milk price input",
-  "pub_date": "2026-06-09T07:31:23Z",
+  "version": "1.1.1",
+  "notes": "Client branding on PDF reports, compact sidebar, formula panel toggle, roughage all-ingredients",
+  "pub_date": "2026-06-13T20:35:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjAzeHBMejVXRUhOWWlqY2psU3ByRkhERmYrb1dlaTdxSytYMHdETndUVjFFLytQWXlLM1NpOGZ6dzcrSjVrbUtRL1U5YlRBTDVQRUNEaUxsbnk5WmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTcyMTM3CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4xLjBfeDY0LXNldHVwLmV4ZQpRUEM2Ykx5TDREdzdkRS9xUUxHOEFiZ0JYTi8vdlpIOEF2ZXlERmZ1SFcrRkJ5UjVnT1pBMjBuZGR1dzc2QUxqeTBqVlo3MlN1eHpmb1BPMnR6bmNDZz09Cg==",
-      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.1.0/Vanda.Formulation.Suite_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU3lhc1I0MllRNjR2VTFOQndNUkhUQllqMnhaMFBIbG9YbHNpb1lKSWR6UHplck9OSUc1ZE4wb2h2d0IycXNmK2NqUTVHajhQYVBIZFFLOEhlenFESVVvSUFUTVhxelFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzgyNjk2CWZpbGU6VmFuZGEgRm9ybXVsYXRpb24gU3VpdGVfMS4xLjFfeDY0LXNldHVwLmV4ZQpwdHJjV2JxWW5zZml4T0VjY2VUaFpQbmVGQTd2SUsvM1E4SzZIYTJNWHNWdXZ2V1pIb0UyOTNodUZMbGtCZFBaSDJ3K210TGdNL3k0MHpVOGtoaFZDUT09Cg==",
+      "url": "https://github.com/crimznexus/vfs-releases/releases/download/v1.1.1/Vanda%20Formulation%20Suite_1.1.1_x64-setup.exe"
     }
   }
 }
